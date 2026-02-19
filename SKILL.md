@@ -3,7 +3,7 @@ name: middle-way-guidance
 description: 'Identify extremes in thinking or behavior and guide toward balanced, wise action. The Buddha''s first teaching principle: avoiding the pull of opposites to find the path of wisdom.'
 license: MIT
 metadata:
-  version: 1.0.4496
+  version: 1.0.4497
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
